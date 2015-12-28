@@ -13,11 +13,10 @@
     "@f/gen-to-promise": "^1.1.1",
     "@f/is-array": "^1.1.1",
     "@f/is-function": "^1.1.1",
-    "@f/is-generator": "^1.2.1",
+    "@f/is-generator": "^1.3.2",
     "@f/is-object": "^1.1.1",
     "@f/is-promise": "^1.1.1",
     "@f/obj-to-promise": "^1.2.0",
-    "@f/supports-gen": "^1.2.1",
     "@f/thunk-to-promise": "^1.1.1"
   },
   "devDependencies": {
